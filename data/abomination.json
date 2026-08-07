@@ -1,0 +1,21 @@
+ 
+ 
+{
+    "id": 447,
+    "name": "Abomination",
+    "author": "andrewNt",
+    "creators": [],
+    "verifier": "andrewNt",
+    "verification": "https://youtu.be/E5AI3YRzNxU?si=VQDlhJYO1S42EgCR",
+    "percentToQualify": "100",
+    "password": "Free to copy",
+    "records": [
+        {
+            "user": "Placeholder",
+            "link": "",
+            "percent": 100,
+            "hz": 360
+        }
+        
+    ]
+}
