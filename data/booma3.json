@@ -1,0 +1,25 @@
+ 
+{
+    "id": 266,
+    "name": "Boomatrovaniatiacio III",
+    "author": "arsenioSA",
+    "creators": [],
+    "verifier": "arsenioSA",
+    "verification": "https://youtu.be/_U9bWN4IRRU?si=jNqY8gQl0UoZD088",
+    "percentToQualify": 100,
+    "password": "Free To Copy",
+    "records": [
+{
+            "user": "eduFlameWall",
+            "link": "https://youtu.be/iK8CImJImiE?is=auCBYGkNBSHvvwzc",
+            "percent": 100,
+            "hz": 60
+        }, 
+        {
+            "user": "CBF",
+            "link": "https://youtu.be/9K1l1R-g6-o?si=rFdomE7-xeGbBwxH",
+            "percent": 100,
+            "hz": 60
+        }
+    ]
+}

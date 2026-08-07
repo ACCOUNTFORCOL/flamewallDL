@@ -1,0 +1,32 @@
+ 
+ 
+{
+    "id": 195,
+    "name": "Flame Circles",
+    "author": "Nohody",
+    "creators": [],
+    "verifier": "ArsenioSA",
+    "verification": "https://youtu.be/Pb-TaEJDr4g?si=i571qVSeKpe5Lrg3",
+    "percentToQualify": 100,
+    "password": "Free To Copy",
+    "records": [
+        {
+            "user": "CBF",
+            "link": "https://youtu.be/jZzQQVTEDMs?si=-I90DKTWbtd-XK9H",
+            "percent": 100,
+            "hz": 60
+        },
+{
+            "user": "eduFlameWall",
+            "link": "https://youtu.be/p7NwOyMciDw?is=k39oq_UnYKZLDahe",
+            "percent": 100,
+            "hz": 60
+        },
+{
+            "user": "Aris",
+            "link": "https://drive.google.com/file/d/1R5iRgeT8yU5vRTVOpI-vFBBfzn9gBMN9/view?usp=sharing",
+            "percent": 100,
+            "hz": 60
+        }
+    ]
+}

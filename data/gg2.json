@@ -1,0 +1,25 @@
+ 
+{
+    "id": 198,
+    "name": "Gamemodes go 2",
+    "author": "ArsenioSA",
+    "creators": [],
+    "verifier": "cyolix",
+    "verification": "https://youtu.be/QGXodzkl5SI?si=85K32ezYDjHXQvkb",
+    "percentToQualify": 100,
+    "password": "Free To Copy",
+    "records": [
+        {
+            "user": "CBF",
+            "link": "https://youtu.be/OAjxfNWTyzM?si=i9M0oJX-R0Lk0_w9",
+            "percent": 100,
+            "hz": 60
+        },
+{
+            "user": "EduFlamewall",
+            "link": "https://youtu.be/ov8HcKEZtu4?si=e6oGGZeuyn6ewQKx",
+            "percent": 100,
+            "hz": 60
+        }
+    ]
+}

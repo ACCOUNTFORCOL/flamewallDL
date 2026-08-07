@@ -1,0 +1,25 @@
+ 
+{
+    "id": 133,
+    "name": "Flash Circles",
+    "author": "arsenioSA",
+    "creators": [],
+    "verifier": "cyolix",
+    "verification": "https://youtu.be/OqeCQABuyxo?si=F2SKXUsfDLu70T0-",
+    "percentToQualify": "100",
+    "password": "Free To Copy",
+    "records": [
+        {
+            "user": "reft",
+            "link": "https://docs.google.com/videos/d/1xOM5PyvaV2JtGzOkuXLc1YZvOjpBPV_iy6Zr0EFalTc/edit?usp=sharing",
+            "percent": 100,
+            "hz": 60
+           },
+    {
+            "user": "eduFlameWall",
+            "link": "https://youtu.be/CZTGX5aaaaE?is=_Vyzy2U7qiYa3YLs",
+            "percent": 100,
+            "hz": 60
+           }
+    ]
+}

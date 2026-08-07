@@ -1,0 +1,20 @@
+ 
+{
+    "id": 228,
+    "name": "ermb",
+    "author": "CBF",
+    "creators": [],
+    "verifier": "CBF",
+    "verification": "https://youtu.be/x9YhKH-X2A4?si=Qvf0F9K0LojR1MwY",
+    "percentToQualify": "100",
+    "password": "Free to copy",
+    "records": [
+{
+            "user": "eduFlameWall",
+            "link": "https://youtu.be/EnAm8OdyLJM?is=WKpdYH8TzcwA6eo6",
+            "percent": 100,
+            "hz": 60
+        }
+        
+    ]
+}

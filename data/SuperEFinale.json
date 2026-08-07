@@ -1,0 +1,21 @@
+ 
+ 
+ 
+{
+    "id": 231,
+    "name": "Super E Finale",
+    "author": "CBF",
+    "creators": [],
+    "verifier": "eduFlameWall",
+    "verification": "https://youtu.be/pcszTPMGyuM?is=tjGGmhBODKNcOLWi",
+    "percentToQualify": 100,
+    "password": "Free To Copy",
+    "records": [
+        {
+            "user": "Nohody",
+            "link": "https://youtu.be/CjLPWXjV_aM?si=Yg12je40Vx_jdh1W",
+            "percent": 100,
+            "hz": 60
+        }
+    ]
+}

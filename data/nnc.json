@@ -1,0 +1,20 @@
+ 
+ 
+{
+    "id": 318,
+    "name": "Nobody Never Clear",
+    "author": "andrewNt",
+    "creators": [],
+    "verifier": "EduFlamewall",
+    "verification": "https://youtu.be/t-0C0wNNmIc?si=srzAny8qpuE7ObFQ",
+    "percentToQualify": 100,
+    "password": "Free To Copy",
+    "records": [
+        {
+            "user": "Placeholder",
+            "link": "",
+            "percent": 100,
+            "hz": 360
+        }
+    ]
+}

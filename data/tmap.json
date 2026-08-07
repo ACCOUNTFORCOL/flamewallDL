@@ -1,0 +1,31 @@
+ 
+{
+    "id": 168,
+    "name": "Troll Map",
+    "author": "ArsenioSA",
+    "creators": [],
+    "verifier": "cyolix",
+    "verification": "https://youtu.be/TXdGOU8KdyY?si=cu-Mh0u_cvNirZOw",
+    "percentToQualify": "100",
+    "password": "Free To Copy",
+    "records": [
+        {
+            "user": "CBF",
+            "link": "https://youtu.be/P3zfZyjbJPk?si=0iQU0sB3sDP4_BEA",
+            "percent": 100,
+            "hz": 60
+           },
+    {
+            "user": "Nohody",
+            "link": "https://youtu.be/Fl2h8Pl5rOo?si=t9xcaHzEOTgpgIZZ",
+            "percent": 100,
+            "hz": 60
+           },
+    {
+            "user": "eduFlameWall",
+            "link": "https://youtu.be/7VgrwsaavSk?is=ovXP6bK3O_jxKcrQ",
+            "percent": 100,
+            "hz": 60
+           }
+    ]
+}

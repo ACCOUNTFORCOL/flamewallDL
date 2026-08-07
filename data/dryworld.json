@@ -1,0 +1,21 @@
+ 
+ 
+{
+    "id": 259,
+    "name": "Dry World",
+    "author": "andrewNt",
+    "creators": [],
+    "verifier": "andrewNt",
+    "verification": "https://youtu.be/gHiXpnQaVX0",
+    "percentToQualify": "100",
+    "password": "Free to copy",
+    "records": [
+        {
+            "user": "eduFlameWall",
+            "link": "https://youtu.be/lEE2_-hEceo?is=dYKdkOe5-w64gia4",
+            "percent": 100,
+            "hz": 60
+        }
+        
+    ]
+}

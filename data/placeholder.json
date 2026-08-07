@@ -1,0 +1,20 @@
+ 
+ 
+{
+    "id": 279,
+    "name": "Placeholder",
+    "author": "CBF",
+    "creators": [],
+    "verifier": "Lani",
+    "verification": "https://youtu.be/VuIVh3g_kCM",
+    "percentToQualify": 100,
+    "password": "Free To Copy",
+    "records": [
+        {
+            "user": "EduFlamewall",
+            "link": "https://youtu.be/luJ9XFF1Pbc?si=_xGMdrXW-PSOgEtL",
+            "percent": 100,
+            "hz": 60
+        }
+    ]
+}
