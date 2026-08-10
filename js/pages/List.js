@@ -124,7 +124,7 @@ export default {
                         Once a level falls onto the Legacy List, we accept records for it for 24 hours after it falls off, then afterwards we never accept records for said level
                     </p>
                     <p>
-                        <a href="https://geode-sdk.org/mods/beat.click-sound" target="_blank">Click sounds full geode mod</a> is not allowed, either show a handcam or enable microphone so click sounds are heard in pc, for mobile show taps
+                        <a href="https://geode-sdk.org/mods/beat.click-sound" target="_blank">Click sounds full geode mod</a> is not allowed, either show a handcam or enable microphone so click sounds are heard in pc, for mobile just show taps or again enable microphone so the clicks can be heard.
                     </p>
                 </div>
             </div>
