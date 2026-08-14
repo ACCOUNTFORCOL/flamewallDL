@@ -87,7 +87,8 @@ export default {
                         <p class="error" v-for="error of errors">{{ error }}</p>
                     </div>
                     <div class="og">
-                        <p class="type-label-md">Credits to <a href="https://tsl.pages.dev/" target="_blank">TheShittyList</a> for the website layout ^w^, so in that case we don't own the list. It's forked</p>
+                    <h3>Ownership</h3>
+                        <p class="type-label-md">All credits go to <a href="https://tsl.pages.dev/" target="_blank">TheShittyList.</a> we do not own the original project, however some features are added by developers that may not exist in TheShittyList</p>
                     </div>
                     <template v-if="editors">
                         <h3>List Editors</h3>
