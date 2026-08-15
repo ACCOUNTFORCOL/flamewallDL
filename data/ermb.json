@@ -9,11 +9,17 @@
     "percentToQualify": "100",
     "password": "Free to copy",
     "records": [
-{
-            "user": "eduFlameWall",
+},
+           
+    "user": "eduFlameWall",
             "link": "https://youtu.be/EnAm8OdyLJM?is=WKpdYH8TzcwA6eo6",
             "percent": 100,
-            "hz": 60
+            "hz": 60 
+    
+    "user": "AndrewNT",
+            "link":"https://youtu.be/iY3FXKv-2pA",
+            "percent": 100,
+            "hz": 120
         }
         
     ]
