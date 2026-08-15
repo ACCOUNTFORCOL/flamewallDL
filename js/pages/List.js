@@ -49,13 +49,15 @@ export default {
                         </li>  
                         <li>
     <div class="type-title-sm">ID</div>
-    <p>
+    <p style="display:flex;align-items:center;gap:8px;">
         {{ level.id }}
         <img
             src="/assets/copy.svg"
             alt="Copy"
-            @click="copyID(level.id)"
-            style="width:16px;height:16px;cursor:pointer;vertical-align:middle;margin-left:4px;"
+            width="22"
+            height="22"
+            style="cursor:pointer;"
+            @click="navigator.clipboard.writeText(String(level.id))"
         >
     </p>
 </li>
