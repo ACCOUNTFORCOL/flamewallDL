@@ -46,19 +46,10 @@ export default {
                         <li>  
                             <div class="type-title-sm">Points when completed</div>  
                             <p>{{ score(selected + 1, 100, level.percentToQualify) }}</p>  
-                        </li>  
                         <li>
     <div class="type-title-sm">ID</div>
-    <p style="display:flex;align-items:center;gap:8px;">
+    <p style="user-select:all;cursor:text;">
         {{ level.id }}
-        <img
-            src="/assets/copy.svg"
-            alt="Copy"
-            width="22"
-            height="22"
-            style="cursor:pointer;"
-            @click="navigator.clipboard.writeText(String(level.id))"
-        >
     </p>
 </li>
                         <li>  
