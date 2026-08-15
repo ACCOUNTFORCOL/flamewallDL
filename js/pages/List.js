@@ -191,8 +191,11 @@ export default {
   
         this.loading = false;  
     },  
-    methods: {  
-        embed,  
-        score,  
-    },  
-};  
+    methods: {
+    embed,
+    score,
+
+    copyID(id) {
+        navigator.clipboard.writeText(String(id));
+    },
+},
