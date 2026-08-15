@@ -47,10 +47,18 @@ export default {
                             <div class="type-title-sm">Points when completed</div>  
                             <p>{{ score(selected + 1, 100, level.percentToQualify) }}</p>  
                         </li>  
-                        <li>  
-                            <div class="type-title-sm">ID</div>  
-                            <p>{{ level.id }}</p>  
-                        </li>  
+                        <li>
+    <div class="type-title-sm">ID</div>
+    <p>
+        {{ level.id }}
+        <img
+            src="/assets/copy.svg"
+            alt="Copy"
+            @click="copyID(level.id)"
+            style="width:16px;height:16px;cursor:pointer;vertical-align:middle;margin-left:4px;"
+        >
+    </p>
+</li>
                         <li>  
                             <div class="type-title-sm">Password</div>  
                             <p>{{ level.password || 'Free to Copy' }}</p>  
