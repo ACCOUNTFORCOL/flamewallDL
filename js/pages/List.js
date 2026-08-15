@@ -48,9 +48,14 @@ export default {
                             <p>{{ score(selected + 1, 100, level.percentToQualify) }}</p>
                         </li>
                         <li>
-                            <div class="type-title-sm">ID</div>
-                            <p>{{ level.id }}</p>
-                        </li>
+    <div class="type-title-sm">ID</div>
+    <div class="copy-id">
+        <p>{{ level.id }}</p>
+        <button @click="copyID(level.id)" class="copy-btn">
+            <img src="/assets/copy.svg" alt="Copy ID">
+        </button>
+    </div>
+</li>
                         <li>
                             <div class="type-title-sm">Password</div>
                             <p>{{ level.password || 'Free to Copy' }}</p>
@@ -182,7 +187,14 @@ export default {
         this.loading = false;
     },
     methods: {
-        embed,
-        score,
-    },
-};
+    embed,
+    score,
+
+    async copyID(id) {
+        try {
+            await navigator.clipboard.writeText(id.toString());
+        } catch (err) {
+            console.error(err);
+        }
+    }
+  };
