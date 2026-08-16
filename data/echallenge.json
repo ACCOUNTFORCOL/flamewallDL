@@ -6,16 +6,16 @@
     "name": "Eternal Challenge",
     "author": "CBF",
     "creators": [],
-    "verifier": "andrewNt",
-    "verification": "https://youtu.be/_ObgszXYbo8",
+    "verifier": "Eduflamewall",
+    "verification": "https://youtu.be/8V0g1sOps-8?si=oek5mu8JvysLI6NK"
     "percentToQualify": 100,
     "password": "Free To Copy",
     "records": [
         {
-            "user": "EduFlamewall",
-            "link": "https://youtu.be/8V0g1sOps-8?si=A_357MaaJp_M6nro",
+            "user": "Placeholder",
+            "link": "",
             "percent": 100,
-            "hz": 60
+            "hz": 360
         }
     ]
 }
