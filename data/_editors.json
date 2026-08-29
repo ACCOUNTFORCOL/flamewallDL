@@ -5,12 +5,7 @@
         "link": ""
     },
     {
-        "role": "dev",
-        "name": "Flamewall",
-        "link": ""
-    },
-    {
-        "role": "helper",
+        "role": "admin",
         "name": "CBF",
         "link": ""
     },
