@@ -5,16 +5,16 @@
     "name": "Dry World",
     "author": "andrewNt",
     "creators": [],
-    "verifier": "andrewNt",
-    "verification": "https://youtu.be/gHiXpnQaVX0",
+    "verifier": "EduFlamewall",
+    "verification": "https://youtu.be/lEE2_-hEceo?is=dYKdkOe5-w64gia4",
     "percentToQualify": "100",
     "password": "Free to copy",
     "records": [
         {
-            "user": "eduFlameWall",
-            "link": "https://youtu.be/lEE2_-hEceo?is=dYKdkOe5-w64gia4",
+            "user": "Placeholder",
+            "link": "",
             "percent": 100,
-            "hz": 60
+            "hz": 360
         }
         
     ]
