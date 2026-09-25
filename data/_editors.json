@@ -9,6 +9,11 @@
         "name": "CBF",
         "link": ""
     },
+    {
+        "role": "admin",
+        "name": "EduFlamewall",
+        "link": ""
+    },
     
     {
         "role": "helper",
@@ -16,8 +21,8 @@
         "link": ""
     },
     {
-        "role": "helper",
-        "name": "EduFlamewall",
+        "role": "reviewer",
+        "name": "play",
         "link": ""
     }
 ]
