@@ -1,0 +1,20 @@
+
+{
+    "id": 776,
+    "name": "HEBO X",
+    "author": "False",
+    "creators": [],
+    "verifier": "koozoo2000",
+    "verification": "https://www.youtube.com/watch?v=ZP2LkDggwYs",
+    "percentToQualify": "100",
+    "password": "Free to copy",
+    "records": [
+        {
+            "user": "Placeholder",
+            "link": "",
+            "percent": 100,
+            "hz": 360
+        }
+        
+    ]
+}
