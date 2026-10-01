@@ -14,5 +14,12 @@
             "percent": 100,
             "hz": 360
         }
+        {
+         "user": "Play",
+            "link": "https://youtu.be/HXhkVOhZfuM?si=oERaAEIq7pVZvD66",
+            "percent": 100,
+            "hz": 60
+        }
+        
     ]
 }
