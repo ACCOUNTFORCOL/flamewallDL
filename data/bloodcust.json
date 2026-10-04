@@ -14,7 +14,13 @@
             "link": "https://youtu.be/nFCHdnjK7Fk?si=mPVPZ6yntzYPkLCk",
             "percent": 100,
             "hz": 60
-        }
+        },
+        {
+            "user": "Zack",
+            "link": "https://youtu.be/zWD86S5MJZU",
+            "percent": 100,
+            "hz": 360
+        } 
         
     ]
 }
