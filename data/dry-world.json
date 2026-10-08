@@ -1,0 +1,20 @@
+
+{
+    "id": 259,
+    "name": "Dry World",
+    "author": "AndrewNT",
+    "creators": [],
+    "verifier": "AndrewNT",
+    "verification": "https://youtu.be/CTjn4Rx_PCA",
+    "percentToQualify": "100",
+    "password": "Free to copy",
+    "records": [
+        {
+            "user": "Placeholder",
+            "link": "",
+            "percent": 100,
+            "hz": 360
+        }
+        
+    ]
+}
